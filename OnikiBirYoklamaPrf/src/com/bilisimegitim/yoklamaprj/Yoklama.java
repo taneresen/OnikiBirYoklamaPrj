@@ -5,7 +5,7 @@ public class Yoklama {
 	public static void main(String[] args) {
 		
 		
-		String[] isimler = {"Taner","Mustafa","Mehmet","Nihan","Asya"};
+		String[] isimler = {"Taner","Mustafa","Mehmet","Nihan"};
 		
 		
 		//isimleri Yazdiriyoruz
